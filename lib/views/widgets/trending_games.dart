@@ -114,9 +114,3 @@ class TrendingGames extends StatelessWidget {
     );
   }
 }
-git config --global user.name "Greenti"
-git config --global user.email "greentiperu@gmail.com"
-git config --global github.token "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"
-
-
-git config --global github.user "greentiperu"
