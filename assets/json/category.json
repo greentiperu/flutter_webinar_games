@@ -1,0 +1,25 @@
+
+{   
+    "category": [
+        {
+            "id": 1,
+            "name"  : "Adventure",
+            "icon": "assets/icons/ico_mountain.svg"
+        },
+        {
+            "id": 2,
+            "name"  : "Game",
+            "icon": "assets/icons/ico_game.svg"
+        },
+        {
+            "id": 3,
+            "name"  : "Sport",
+            "icon": "assets/icons/ico_sport.svg"
+        },
+        {
+            "id": 4,
+            "name"  : "Action",
+            "icon": "assets/icons/ico_fire.svg"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+
+{   
+    "newGame": [
+        {
+            "id": 1,
+            "title"  : "Gran Turismo 7",
+            "subtitle"  : "Battle Speed •Action",
+            "path"  : "assets/images/game_turismo.jpeg"
+        },
+        {
+            "id": 2,
+            "title"  : "Ninjago season 7",
+            "subtitle"  : "Action •Survival",
+            "path"  : "assets/images/game_ninjago.jpg"
+        }
+    ]
+}

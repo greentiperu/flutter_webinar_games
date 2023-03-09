@@ -1,0 +1,23 @@
+
+{   
+    "game": [
+        {
+            "id": 1,
+            "title"  : "Fortnite",
+            "subtitle"  : "Battle Royal •Action",
+            "path"  : "assets/images/game_fortnite.jpg"
+        },
+        {
+            "id": 2,
+            "title"  : "Call of Duty: V",
+            "subtitle"  : "Action •Survival",
+            "path"  : "assets/images/game_warzon.jpg"
+        },
+        {
+            "id": 3,
+            "title"  : "Dota 2",
+            "subtitle"  : "Action •Team",
+            "path"  : "assets/images/game_dota.jpeg"
+        }
+    ]
+}
