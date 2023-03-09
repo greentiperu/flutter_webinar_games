@@ -1,16 +1,30 @@
-# flutter_webinar_games
 
-A new Flutter project.
+## Construido con 🛠️
 
-## Getting Started
+Listado de las principales herramientas y tecnologías utilizadas para desarrollar el software:
 
-This project is a starting point for a Flutter application.
+* [Herramienta](https://www.herramienta.com/) - Descripción breve de la herramienta
+* [Tecnología](https://www.tecnologia.com/) - Descripción breve de la tecnología
 
-A few resources to get you started if this is your first Flutter project:
+## Contribuyendo 🖇️
+El presente proyecto es un ejercicio que se desarrollo en una webinar para el curso de flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Versionado 📌
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sección para describir el historial de versiones del software.
+
+## Autores ✒️
+
+Lista de autores que han contribuido al proyecto.
+
+* **Autor 1** - [Autor 1](Gustavo Quino)
+
+## Reconocimientos 🎁
+
+Expresión de gratitud a aquellas personas que han ayudado en el proyecto.
+
+* Edward Ingaruca 🍺
+* Ezequien Quino 📢
+
+---
+⌨️ con ❤️ por [Greenti.pe](https://github.com/greentiperu)
